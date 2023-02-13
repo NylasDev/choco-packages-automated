@@ -13,7 +13,8 @@ $Packages = @(
 "forticlientvpn", 
 "googledrive", 
 "notepadplusplus",
-"stremio")
+"stremio",
+"7zip")
 
 function Install-ChocoPackage {
 
