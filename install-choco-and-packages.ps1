@@ -20,7 +20,8 @@ $Packages = @(
 "autoruns",
 "procexp",
 "pestudio",
-"hxd")
+"hxd",
+"powertoys")
 
 function Install-ChocoPackage {
 
