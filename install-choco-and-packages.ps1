@@ -14,7 +14,8 @@ $Packages = @(
 "googledrive", 
 "notepadplusplus",
 "stremio",
-"7zip")
+"7zip",
+"kis")
 
 function Install-ChocoPackage {
 
