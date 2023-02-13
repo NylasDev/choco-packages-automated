@@ -15,7 +15,8 @@ $Packages = @(
 "notepadplusplus",
 "stremio",
 "7zip",
-"kis")
+"kis",
+"geforce-experience")
 
 function Install-ChocoPackage {
 
