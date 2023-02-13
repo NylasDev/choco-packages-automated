@@ -16,7 +16,11 @@ $Packages = @(
 "stremio",
 "7zip",
 "kis",
-"geforce-experience")
+"geforce-experience",
+"autoruns",
+"procexp",
+"pestudio",
+"hxd")
 
 function Install-ChocoPackage {
 
